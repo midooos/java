@@ -19,10 +19,10 @@ public class main2 {
         //if (compteur >= 10) {
            // System.out.println("x est superieur ou egal a 10");
         //}
-        //total -= --x;
+        //total =total - --x;
         //q = q % diviseur;
         //somme=somme+x;
-        System.out.println("la somme vaut: " + somme);
+        System.out.println("la somme est  " + somme);
 
     }
 
